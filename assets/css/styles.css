@@ -433,7 +433,7 @@ html {
 /* CTA */
 
 .cta {
-    background: url("/assets/img/banner-image.jpg") top center no-repeat;
+    background: url("../img/banner-image.jpg") top center no-repeat;
 }
 
 .cta::after {
@@ -540,7 +540,7 @@ html {
 
 /* Footer */
 .footer {
-    background: url("/assets/img/footer-bg.jpg") top center / cover no-repeat ;
+    background: url("../img/footer-bg.jpg") top center / cover no-repeat ;
     height: 150px;
     border-radius: 150px 150px 0 0;
     margin-top: 150px;
