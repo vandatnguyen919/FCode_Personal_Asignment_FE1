@@ -110,7 +110,7 @@ html {
     padding-top: 225px;
     padding-bottom: 225px;
     height: 100%;
-    background: url("/assets/img/banner-bg.jpg") top center / cover no-repeat;
+    background: url("../img/banner-bg.jpg") top center / cover no-repeat;
     border-radius: 0 0 125px 125px;
 }
 
@@ -540,8 +540,7 @@ html {
 
 /* Footer */
 .footer {
-    background-image: url("/assets/img/footer-bg.jpg");
-    background: top center / cover no-repeat ;
+    background: url("/assets/img/footer-bg.jpg") top center / cover no-repeat ;
     height: 150px;
     border-radius: 150px 150px 0 0;
     margin-top: 150px;
